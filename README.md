@@ -40,7 +40,7 @@ Evaluates possible actions and calculates expected value.
 Prepares the approved action for execution.
 
 
-## Roadmap
+# Roadmap
 
 ### Phase 1 — Hackathon Prototype
 - [ ] Mock FBA data
